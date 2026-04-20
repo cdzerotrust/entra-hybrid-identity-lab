@@ -107,6 +107,7 @@ Synced users (from AD)
 Entra Connect does not automatically merge identities unless matching conditions are met, which can lead to duplicate identities.
 
 🔐 Security Impact
+
 Reduced attack surface using OU-based scoping
 Established centralized identity control
 Prevented synchronization of unnecessary objects
@@ -114,16 +115,21 @@ Enabled foundation for:
 Conditional Access
 Access Reviews
 Privileged Identity Management (PIM)
+
 🧠 Key Takeaways
+
 Hybrid identity failures often stem from certificate or app registration issues
 Proper cleanup of services, registry, and Entra objects is critical
 OU filtering acts as a security boundary
 Validation must be performed in Entra ID, not just locally
+
 🚀 Next Steps
+
 Implement Conditional Access (MFA enforcement)
 Configure Access Reviews (Entra ID P2)
 Monitor provisioning and sign-in logs
 Integrate PIM for privileged roles
+
 👤 Author
 
 Chris Davis
