@@ -114,6 +114,7 @@ Entra Connect does not automatically merge identities unless matching conditions
 Reduced attack surface using OU-based scoping
 Established centralized identity control
 Prevented synchronization of unnecessary objects
+
 Enabled foundation for:
 Conditional Access
 Access Reviews
