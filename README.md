@@ -105,6 +105,7 @@ Duplicate accounts observed:
 
 Cloud-only users (pre-existing)
 Synced users (from AD)
+
 💡 Insight:
 
 Entra Connect does not automatically merge identities unless matching conditions are met, which can lead to duplicate identities.
@@ -116,6 +117,7 @@ Established centralized identity control
 Prevented synchronization of unnecessary objects
 
 Enabled foundation for:
+
 Conditional Access
 Access Reviews
 Privileged Identity Management (PIM)
